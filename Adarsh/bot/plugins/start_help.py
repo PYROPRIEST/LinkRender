@@ -56,7 +56,7 @@ async def start(b, m):
                     disable_web_page_preview=True)
                 return
         await m.reply_photo(
-            photo="https://te.legra.ph/file/8dfe7256883cbc0190478.jpg",
+            photo="https://te.legra.ph/file/37ebf58f4fb21837bc81f.jpg",
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
@@ -230,7 +230,7 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/file_to_link-jbrobot'>File To Link Bot</a></b>
+┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/file_to_link_jbrobot'>File To Link Bot</a></b>
 ┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/JackeyBots'>JackeyBots</a></b>
 ┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/JackeyBots_Support'>JackeyBots Support</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
